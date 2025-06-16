@@ -1,2 +1,2 @@
 # CPP02
-Exercice for the CCP02 project
+Exercice for the CPP02 project
